@@ -4,6 +4,9 @@ def setupInitMoney():
     #TODO: Add user input validation
     #TODO: convert to float before return
     #TODO: ...
+    asdasd
+    dfgdfgdfg
+    sfsfd
 
     return money
 
